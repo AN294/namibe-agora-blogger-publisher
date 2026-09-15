@@ -1,0 +1,1 @@
+{"name":"namibe-agora-blogger-publisher","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node server.js"},"dependencies":{"express":"^5.2.1","googleapis":"^160.0.0"}}
